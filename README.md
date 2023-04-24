@@ -4,12 +4,12 @@
   - Go state public database
   - Collecte data
 
-* Other states between Iowa and Texas
-
 * Modeling of pesticides in U.S - literature review
   - Neonictinoids distribution
   - invertibrate/microinvertibrate correlation to pesticides
   - surface water & pestcides
+
+* Other states between Iowa and Texas
 
 * Other contamination chemicals
   - Arsenic - competitive
