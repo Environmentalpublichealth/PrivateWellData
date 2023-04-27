@@ -4,6 +4,12 @@
   - Go state public database
   - Collecte data
 
+Get filtered site data with arsenic level > 10 ug from USGS and grab the county names and sort.
+```bash
+grep 'County' USGS\ Water\ Quality\ Samples\ for\ Nebraska_\ Sample\ Data.html | sort -t '>' -k1,1
+```
+
+
 * Modeling of pesticides in U.S - literature review
   - Neonictinoids distribution
   - invertibrate/microinvertibrate correlation to pesticides
