@@ -31,3 +31,19 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9007503/
 
 * Physiological Effects of Neonicotinoid Insecticides on Non-Target Aquatic Animals—An Updated Review \
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8431157/
+
+## environmental - biology inference modeling 
+### national contaminants 
+- air 
+- water
+- soil
+### contaminants caused by human activities
+- [Environmental Justice Index](https://www.atsdr.cdc.gov/placeandhealth/eji/index.html)
+- human concensus
+- cropland usage
+- industry, military sites
+### biololgy data
+- single-cell micorbes/ organisms
+- invertebrates
+  - insects (Arthropod)
+  - mollusks
